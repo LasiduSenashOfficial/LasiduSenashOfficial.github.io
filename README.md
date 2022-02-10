@@ -1,7 +1,7 @@
 # Lasindu's Official Site
 
-## Demo It
-<a href="https://lasindusenashofficial.github.io"><img scr="./file/download-removebg-preview.png" size="100px"></a>
+## <a href="https://lasindusenashofficial.github.io">Demo It</a>
+<a href="https://lasindusenashofficial.github.io"><img scr="/file/download-removebg-preview.png" size="100"></a>
 
 
 ## Credits
